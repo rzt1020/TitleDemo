@@ -1,0 +1,7 @@
+name: TitleDemo
+version: '${project.version}'
+main: cn.myrealm.titledemo.TitleDemo
+api-version: '1.20'
+commands:
+  test:
+    aliases: t
