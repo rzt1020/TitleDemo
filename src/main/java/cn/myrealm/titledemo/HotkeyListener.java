@@ -46,5 +46,4 @@ public class HotkeyListener implements Listener {
             TitleManager.manager.removePlayer(player);
         }
     }
-
 }
